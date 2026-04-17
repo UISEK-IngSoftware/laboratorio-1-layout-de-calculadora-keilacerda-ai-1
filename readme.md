@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Keila Alely Cerda Alvarado
+- **Carrera**: Ingeniería de Software
+- **Fecha de entrega**: 17 de abril de 2026
 
 ---
 
